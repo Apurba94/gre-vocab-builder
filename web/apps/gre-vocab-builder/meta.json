@@ -1,0 +1,11 @@
+{
+ "name": "gre-vocab-builder",
+ "title": "GRE Vocab Builder",
+ "exam": "GRE",
+ "area": "GRE Verbal",
+ "desc": "Learn over 600 high-value GRE words with spaced-repetition flashcards, example sentences and quick quizzes.",
+ "content": [
+  "gre_words.json"
+ ],
+ "n": 1
+}
